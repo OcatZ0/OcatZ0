@@ -1,4 +1,5 @@
-<h1 align="center">Hi 🙋🏻‍♂️, my name is Muhamad Nurfadli</h1>
+<h1 align="center">Hi 🙋🏻‍♂️</h1>
+<h1 align="center">My name is Muhamad Nurfadli</h1>
 <h3 align="center">LKS Repository</h3>
 
 <h3 align="left">Languages and Tools:</h3>
