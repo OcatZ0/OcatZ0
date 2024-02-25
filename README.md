@@ -1,5 +1,6 @@
 # 💫 About Me:
-📚 I'm currently learning on 📱 Android Software Development and 🖥️ Windows Software Development<br>⚡ Fun Fact : There's no fun in a fact about my life
+📚 I'm currently learning on 📱 Android Software Development and 🖥️ Windows Software Development<br>
+⚡ Fun Fact : Null
 
 
 # 💻 Tech Stack:
