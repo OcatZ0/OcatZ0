@@ -19,7 +19,7 @@
 <br>
 <br>
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center" id="title">💻 Tech Stack 💻</h1>
 
@@ -48,7 +48,8 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/OcatZ0">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OcatZ0&theme=github" height="180em" />
