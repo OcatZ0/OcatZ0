@@ -32,7 +32,11 @@
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
   
 </div>
-  
+
+<br>
+<br>
+<br>
+
 # 📊 GitHub Stats:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default" alt="OcatZ0" /></a> </p>
