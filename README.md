@@ -13,7 +13,7 @@
 <h3 align="center" id="title">My name is Muhamad Nurfadli</h3>
 <h3 align="center" id="title">I'm from Indonesia 🇮🇩 🇮🇩</h3>
 <p align="center">
-  <img src="https://blog.windisco.com/content/images/2019/10/59948825da49186d884ff496.2019-10-07-15_25_01.gif" alt="project-image">
+  ![](https://github.com/OcatZ0/OcatZ0/blob/main/123.gif)
 </p>
 
 
