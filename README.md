@@ -37,7 +37,7 @@
 <br>
 <br>
 
-# 📊 GitHub Stats:
+<h1 align="center" id="title">📊 GitHub Stats 📊</h1>
 <div align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default" alt="OcatZ0" /></a> </p>
   <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=OcatZ0&show_icons=true&locale=en&theme=transparent" alt="OcatZ0" /></p>
