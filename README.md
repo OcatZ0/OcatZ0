@@ -1,7 +1,9 @@
 <h1 align="center" id="title">👑 ABOUT ME 👑</h1>
 <p align="center"><img src="https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp" alt="project-image"></p>
 
-📚 I'm currently learning on <h2 align="start" id="title">📱 Android Software Development</h2> and 🖥️ Windows Software Development<br>
+<h1 align="center" id="title">📚 I'm currently learning on</h1>
+<h2 align="center" id="title">📱 Android Software Development</h2> 
+<h2 align="center" id="title">🖥️ Windows Software Development</h2>
 ⚡ Fun Fact : Null
 
 
