@@ -35,9 +35,6 @@
   
 # 📊 GitHub Stats:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OcatZ0&label=Profile%20views&color=0e75b6&style=flat" alt="OcatZ0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default" alt="OcatZ0" /></a> </p>
