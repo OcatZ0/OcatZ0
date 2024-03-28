@@ -12,3 +12,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+![alt text](https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp)
