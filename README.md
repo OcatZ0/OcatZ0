@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👑%20ABOUT%20ME%20👑&textBg=false&fontSize=80&desc=Muhamad%20Nurfadli&descAlign=50&descAlignY=66&descSize=25
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👑%20ABOUT%20ME%20👑&textBg=false&fontSize=80&desc=Muhamad%20Nurfadli&descAlign=50&descAlignY=66&descSize=25" alt="project-image"></p>
 <p align="center"><img src="https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp" alt="project-image"></p>
 
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
