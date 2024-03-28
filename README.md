@@ -20,7 +20,8 @@
 <br>
 
 <h1 align="center" id="title">Contact Me</h1>
-[![Instagram - fadli_ocatz](https://img.shields.io/badge/Instagram-fadli__ocatz-E1306C?style=for-the-badge&logo=instagram)](https://www.instagram.com/fadli_ocatz/)
+
+[![Instagram - fadli_ocatz](https://img.shields.io/static/v1?label=Instagram&message=fadli_ocatz&color=E1306C&style=for-the-badge&logo=instagram)](https://www.instagram.com/fadli_ocatz/)
 
 <br>
 <br>
