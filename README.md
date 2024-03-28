@@ -58,7 +58,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OcatZ0&theme=github" height="180em" />
 </div>
 
-<div align="center">
-  <p align="center"><img src="https://i.pinimg.com/originals/04/4d/12/044d12b83f0f1aa1012563a4701b0531.gif" alt="project-image"></p>
-  <p align="center"><img src="https://c.tenor.com/m4p_FJbQo_sAAAAC/tenor.gif" alt="project-image"></p>
+<div style="display: flex; justify-content: center;">
+  <p style="margin-right: 20px;"><img src="https://i.pinimg.com/originals/04/4d/12/044d12b83f0f1aa1012563a4701b0531.gif" alt="project-image"></p>
+  <p><img src="https://c.tenor.com/wAf24FIqeL4AAAAC/tenor.gif" alt="project-image"></p>
 </div>
