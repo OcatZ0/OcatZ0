@@ -12,7 +12,7 @@
 # <h1 align="center" id="title">⚡ (!Fun) Fact ⚡</h1>
 <h3 align="center" id="title">My name is Muhamad Nurfadli</h3>
 <h3 align="center" id="title">I'm from Indonesia 🇮🇩 🇮🇩</h3>
-<img src="https://blog.windisco.com/content/images/2019/10/59948825da49186d884ff496.2019-10-07-15_25_01.gif" width="40" height="40" />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1770445155917831534/63AAE94FF53C5FCA1E9E5D72D46B91258BD31CF3/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="40" height="40" />
 
 
 <br>
