@@ -18,7 +18,7 @@
 <p align="center">
   
   ![grab-landing-page](https://github.com/OcatZ0/OcatZ0/blob/main/asd.gif)
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1770445155917831534/63AAE94FF53C5FCA1E9E5D72D46B91258BD31CF3/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="project-image">
+  
 </p>
 
 <br>
