@@ -13,4 +13,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Alt text](https://assetsio.gnwcdn.com/nahida-build.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp)
