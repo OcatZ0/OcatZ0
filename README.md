@@ -41,10 +41,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default" alt="OcatZ0" /></a> </p>
 
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OcatZ0&layout=compact&theme=transparent" alt=OcatZ0 />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=OcatZ0&show_icons=true&locale=en&theme=transparent" alt="OcatZ0" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OcatZ0&theme=" alt="OcatZ0" /></p>
