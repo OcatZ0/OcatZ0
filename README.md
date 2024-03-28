@@ -1,4 +1,6 @@
-# 💫 About Me:
+<h1 align="center" id="title">👑 ABOUT ME 👑</h1>
+<p align="center"><img src="https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp" alt="project-image"></p>
+
 📚 I'm currently learning on 📱 Android Software Development and 🖥️ Windows Software Development<br>
 ⚡ Fun Fact : Null
 
@@ -12,5 +14,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
-
-![alt text](https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp)
