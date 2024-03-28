@@ -10,14 +10,17 @@
 <br>
 
 <h1 align="center" id="title">⚡ Just Fact ⚡</h1>
-```diff
-@@ rawr @@
-```
 <h3 align="center" font color="red" id="title">My name is Muhamad Nurfadli 🤓</h3>
 <h3 align="center" id="title">I'm from Indonesia 🇮🇩 🇮🇩</h3>
 <h3 align="center" id="title">I'm currently studying at SMKN 1 Batam (Vocational High School) 🏫</h3>
 <p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1770445155917831534/63AAE94FF53C5FCA1E9E5D72D46B91258BD31CF3/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="project-image"></p>
 
+<br>
+<br>
+<br>
+
+<h1 align="center" id="title">Contact Me</h1>
+<p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1770445155917831534/63AAE94FF53C5FCA1E9E5D72D46B91258BD31CF3/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="project-image"></p>
 
 <br>
 <br>
