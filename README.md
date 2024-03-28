@@ -15,7 +15,7 @@
 <h3 align="center" id="title">I'm currently studying at SMKN 1 Batam (Vocational High School) 🏫</h3>
 <h3 align="center" id="title">Hearts of Iron 4 Player 🎖️</h3>
 
-<p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1770445155917831534/63AAE94FF53C5FCA1E9E5D72D46B91258BD31CF3/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="project-image">
+<p align="center">
   <img src="https://i.makeagif.com/media/10-13-2022/8nhjUv.gif" alt="project-image">
 </p>
 
