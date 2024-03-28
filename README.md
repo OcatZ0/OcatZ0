@@ -1,4 +1,4 @@
-<h1 align="center" id="title">👑 ABOUT ME 👑</h1>
+# <h1 align="center" id="title">👑 ABOUT ME 👑</h1>
 <p align="center"><img src="https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp" alt="project-image"></p>
 
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
@@ -9,9 +9,13 @@
 <br>
 <br>
 
-<h1 align="center" id="title">⚡ (!Fun) Fact ⚡</h1>
+# <h1 align="center" id="title">⚡ (!Fun) Fact ⚡</h1>
 <h3 align="center" id="title">My name is Muhamad Nurfadli</h3>
 <h3 align="center" id="title">I'm from Indonesia 🇮🇩 🇮🇩</h3>
+
+<br>
+<br>
+<br>
 
 # <h1 align="center" id="title">💻 Tech Stack 💻</h1>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
