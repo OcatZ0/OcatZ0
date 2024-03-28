@@ -20,7 +20,7 @@
 <br>
 
 <h1 align="center" id="title">Contact Me</h1>
-<p align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1770445155917831534/63AAE94FF53C5FCA1E9E5D72D46B91258BD31CF3/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="project-image"></p>
+[![Instagram - fadli_ocatz](https://img.shields.io/badge/Instagram-fadli__ocatz-E1306C?style=for-the-badge&logo=instagram)](https://www.instagram.com/fadli_ocatz/)
 
 <br>
 <br>
