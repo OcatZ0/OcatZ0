@@ -60,7 +60,7 @@
 
 <div align="center">
   
-  style="margin-right: 20px;"><img src="https://i.pinimg.com/originals/04/4d/12/044d12b83f0f1aa1012563a4701b0531.gif" alt="project-image">
-  <img src="https://c.tenor.com/wAf24FIqeL4AAAAC/tenor.gif" alt="project-image">
+  <img src="https://i.pinimg.com/originals/04/4d/12/044d12b83f0f1aa1012563a4701b0531.gif" alt="project-image" width="100" height="100">
+  <img src="https://c.tenor.com/wAf24FIqeL4AAAAC/tenor.gif" alt="project-image" width="100" height="100">
   
 </div>
