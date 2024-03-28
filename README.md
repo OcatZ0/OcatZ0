@@ -12,7 +12,7 @@
 # <h1 align="center" id="title">⚡ (!Fun) Fact ⚡</h1>
 <h3 align="center" id="title">My name is Muhamad Nurfadli</h3>
 <h3 align="center" id="title">I'm from Indonesia 🇮🇩 🇮🇩</h3>
-![](https://github.com/OcatZ0/OcatZ0/blob/main/123.gif)
+![Alt Text](https://github.com/OcatZ0/OcatZ0/blob/main/123.gif)
 
 
 <br>
