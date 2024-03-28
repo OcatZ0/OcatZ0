@@ -5,6 +5,12 @@
 <h3 align="center" id="title">📱 Android Software Development 📱</h3> 
 <h3 align="center" id="title">🖥️ Windows Software Development 🖥️</h3>
 
+<style>
+  h3#title {
+    margin-bottom: 20px;
+  }
+</style>
+
 <h1 align="center" id="title">⚡ (!Fun) Fact ⚡</h1>
 <h3 align="center" id="title">My name is Muhamad Nurfadli</h3>
 <h3 align="center" id="title">I'm from Indonesia 🇮🇩 🇮🇩</h3>
