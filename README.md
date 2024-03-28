@@ -15,11 +15,11 @@
 <h3 align="center" id="title">I'm currently studying at SMKN 1 Batam (Vocational High School) 🏫</h3>
 <h3 align="center" id="title">Hearts of Iron 4 Player 🎖️</h3>
 
-<p align="center">
+<div align="center">
   
   ![grab-landing-page](https://github.com/OcatZ0/OcatZ0/blob/main/asd.gif)
   
-</p>
+</div>
 
 <br>
 <br>
