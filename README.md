@@ -10,9 +10,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="400" height="200" align="right">
+      <h1 align="center" id="title">⚡ Just Fact ⚡</h1>
   <div style="text-align: left;">
-    <h1 align="center" id="title">⚡ Just Fact ⚡</h1>
+    <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="400" height="200" align="right">
     <h3 align="start" font color="red" id="title">My name is Muhamad Nurfadli 🤓</h3>
     <h3 align="start" id="title">I'm from Indonesia 🇮🇩 🇮🇩</h3>
     <h3 align="start" id="title">I'm currently studying at SMKN 1 Batam (Vocational High School) 🏫</h3>
