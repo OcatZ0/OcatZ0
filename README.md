@@ -9,7 +9,7 @@
 <br>
 <br>
 
-<div align="center">
+<div align="start">
       <h1 align="center" id="title">⚡ Little Fact ⚡</h1>
   <div style="text-align: left;">
     <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="426" height="240" align="right">
