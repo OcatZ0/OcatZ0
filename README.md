@@ -5,6 +5,8 @@
 <h3 align="center" id="title">📱 Android Software Development 📱</h3> 
 <h3 align="center" id="title">🖥️ Windows Software Development 🖥️</h3>
 
+![Snake animation](https://github.com/OcatZ0/OcatZ0/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <br>
 <br>
