@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img align="end" src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="400" height="200" align="right">
+  <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="400" height="200" align="right">
   <div style="text-align: left;">
     <h1 align="center" id="title">⚡ Just Fact ⚡</h1>
     <h3 align="start" font color="red" id="title">My name is Muhamad Nurfadli 🤓</h3>
