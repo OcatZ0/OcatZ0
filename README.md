@@ -1,8 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👑%20ABOUT%20ME%20👑&textBg=false&fontSize=80&desc=Muhamad%20Nurfadli&descAlign=50&descAlignY=66&descSize=25" alt="project-image"></p>
 <p align="center"><img src="https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp" alt="project-image"></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
 <h3 align="center" id="title">📱 Android Software Development 📱</h3> 
 <h3 align="center" id="title">🖥️ Windows Software Development 🖥️</h3>
@@ -60,14 +58,13 @@
 <h1 align="center" id="title">📊 GitHub Stats 📊</h1>
 <div align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default" alt="OcatZ0" /></a> </p>
-  <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=OcatZ0&show_icons=true&locale=en&theme=transparent" alt="OcatZ0" /></p>
-  <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OcatZ0&theme=" alt="OcatZ0" /></p>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=OcatZ0&show_icons=true&locale=en&theme=transparent" alt="OcatZ0" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OcatZ0&theme=" alt="OcatZ0" />
 </div>
 
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/OcatZ0">
