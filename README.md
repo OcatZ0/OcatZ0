@@ -13,7 +13,7 @@
       <h1 align="center" id="title">⚡ Little Fact ⚡</h1>
   <div style="text-align: left;">
     <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="426" height="240" align="right">
-   <p style="font-weight: bold;"> **⭐ My name is Muhamad Nurfadli 🤓**</p>
+   **⭐ My name is Muhamad Nurfadli 🤓**
     <h3 align="start" id="title"> ⭐ I'm from Indonesia 🇮🇩 🇮🇩</h3>
     <h3 align="start" id="title"> ⭐ I'm currently studying at SMKN 1 Batam 🏫</h3>
     <h3 align="start" id="title"> ⭐ Hearts of Iron 4 Player 🎖️</h3>
