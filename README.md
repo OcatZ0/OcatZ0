@@ -15,11 +15,11 @@
     <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="426" height="240" align="right">
         
 **⭐ My name is Muhamad Nurfadli 🤓**
----
+
 **⭐ I'm from Indonesia 🇮🇩 🇮🇩</h3>**
----
+
 **⭐ I'm currently studying at SMKN 1 Batam 🏫**
----
+
 **⭐ Hearts of Iron 4 Player 🎖️**
   </div>
 </div>
