@@ -10,7 +10,7 @@
 <br>
 
 <div align="start">
-      <h1 align="center" id="title">⚡ Little Fact ⚡</h1>
+      <h1 align="center" id="title">⚡ Little Facts ⚡</h1>
   <div style="text-align: left;">
     <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="426" height="240" align="right">
         
@@ -65,7 +65,6 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OcatZ0&theme=" alt="OcatZ0" />
 </div>
 
-<br>
 <br>
 
 <h3 align="center">Statistics</h3>
