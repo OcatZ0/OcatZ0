@@ -6,8 +6,6 @@
 <h3 align="center" id="title">🖥️ Windows Software Development 🖥️</h3>
 
 <br>
-<br>
-<br>
 
 <div align="start">
       <h1 align="center" id="title">⚡ Little Facts ⚡</h1>
@@ -25,8 +23,6 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <h1 align="center" id="title">Contact Me</h1>
 <div align="center">
@@ -37,8 +33,6 @@
   
 </div>
 
-<br>
-<br>
 <br>
 
 <h1 align="center" id="title">💻 Tech Stack 💻</h1>
@@ -55,8 +49,6 @@
 </div>
 
 <br>
-<br>
-<br>
 
 <h1 align="center" id="title">📊 GitHub Stats 📊</h1>
 <div align="center">
@@ -65,7 +57,6 @@
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OcatZ0&theme=" alt="OcatZ0" />
 </div>
 
-<br>
 
 <h3 align="center">Statistics</h3>
 <div align="center">
