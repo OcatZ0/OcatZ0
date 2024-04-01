@@ -5,8 +5,8 @@
   <div style="text-align: left;">
 <p align="start"><img src="https://media.tenor.com/kZIiU4s3zzUAAAAd/megumin-anime.gif" alt="project-image" width="200" height="200>
                    
-<h3 align="center" id="title">📱 Android Software Development 📱</h3> 
-<h3 align="center" id="title">🖥️ Windows Software Development 🖥️</h3>  
+**📱 Android Software Development 📱</h3>**
+**🖥️ Windows Software Development 🖥️</h3>**
 </div>
 
 <br>
