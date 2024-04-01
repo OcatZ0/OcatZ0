@@ -1,5 +1,6 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👑%20ABOUT%20ME%20👑&textBg=false&fontSize=80&desc=Muhamad%20Nurfadli&descAlign=50&descAlignY=66&descSize=25" alt="project-image"></p>
 <p align="center"><img src="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif" alt="project-image"></p>
+<p align="center"><img src="https://media.giphy.com/media/qESHO4LbQB8iYosuAC/giphy.gif" alt="project-image"></p>
 
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
 <div style="display: flex; justify-content: flex-end;">
