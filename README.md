@@ -1,9 +1,12 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👑%20ABOUT%20ME%20👑&textBg=false&fontSize=80&desc=Muhamad%20Nurfadli&descAlign=50&descAlignY=66&descSize=25" alt="project-image"></p>
-<picture>
+
+<div align="center">
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/eb537770268399c917f32932ce7acdfd/2fc7711415efeb4c-18/s540x810/2999150f2060c53a89d149f5c03dc1b2c541868f.gif">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif">
   <img src="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif" alt="Paimon" style="max-width: 100%; height: auto;">
 </picture>
+</div>
 
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
 <div style="display: flex; justify-content: flex-end;">
