@@ -101,7 +101,7 @@
     <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.giphy.com/KsIpb1gJXnK3lH8ba6.webp">
   <source media="(prefers-color-scheme: light)" srcset="https://c.tenor.com/wAf24FIqeL4AAAAC/tenor.gif">
-  <img src="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif" alt="Paimon" style="max-width: 50%; height: 100px;">
+  <img src="https://c.tenor.com/wAf24FIqeL4AAAAC/tenor.gif" alt="Paimon" style="max-width: 50%; height: 100px;">
 </picture>
   
 </div>
