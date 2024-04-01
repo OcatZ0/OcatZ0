@@ -1,6 +1,9 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👑%20ABOUT%20ME%20👑&textBg=false&fontSize=80&desc=Muhamad%20Nurfadli&descAlign=50&descAlignY=66&descSize=25" alt="project-image"></p>
-<p align="center"><img src="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif" alt="project-image"></p>
-<p align="center"><img src="https://64.media.tumblr.com/eb537770268399c917f32932ce7acdfd/2fc7711415efeb4c-18/s540x810/2999150f2060c53a89d149f5c03dc1b2c541868f.gif" alt="project-image"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/eb537770268399c917f32932ce7acdfd/2fc7711415efeb4c-18/s540x810/2999150f2060c53a89d149f5c03dc1b2c541868f.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif">
+  <img alt="Hashnode logo" src="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png" height="25">
+</picture>
 
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
 <div style="display: flex; justify-content: flex-end;">
