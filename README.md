@@ -2,6 +2,7 @@
 <p align="center"><img src="https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp" alt="project-image"></p>
 
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
+<p align="start"><img src="https://media.tenor.com/kZIiU4s3zzUAAAAd/megumin-anime.gif" alt="project-image"></p>
 <h3 align="center" id="title">📱 Android Software Development 📱</h3> 
 <h3 align="center" id="title">🖥️ Windows Software Development 🖥️</h3>
 
