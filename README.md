@@ -4,10 +4,10 @@
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
 <div style="display: flex; justify-content: flex-end;">
   <div style="text-align: end;">
-    <p align="start">📱 Android Software Development 📱</p>
-    <p align="start">🖥️ Windows Software Development 🖥️</p>
+    <h3 align="center" id="title">📱 Android Software Development 📱</h3>
+    <h3 align="center" id="title">🖥️ Windows Software Development 🖥️</h3>
   </div>
-  <div style="margin-left: auto;">
+  <div style="margin-right: 20px;">
     <img src="https://media.tenor.com/kZIiU4s3zzUAAAAd/megumin-anime.gif" alt="project-image" width="200" height="200">
   </div>
 </div>
