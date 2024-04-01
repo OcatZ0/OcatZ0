@@ -1,16 +1,11 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👑%20ABOUT%20ME%20👑&textBg=false&fontSize=80&desc=Muhamad%20Nurfadli&descAlign=50&descAlignY=66&descSize=25" alt="project-image"></p>
-<p align="center"><img src="https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp" alt="project-image"></p>
+<p align="center"><img src="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif" alt="project-image"></p>
 
 <h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
 <div style="display: flex; justify-content: flex-end;">
   <div style="text-align: end;">
       <div style="text-align: left;">
-    <img source media="(prefers-color-scheme: dark)" src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" alt="project-image" width="450" height="300" align="left">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.giphy.com/PUyO4KmKWX5D2MzH3w.webp">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif">
-  <img alt="Hashnode logo" src="https://user-images.githubusercontent.com/71297412/178180441-59f1644e-2ab6-4bf0-866f-2c77b2a63433.png" height="25">
-</picture>
+    <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" alt="project-image" width="450" height="300" align="left">
         
 <h3 align="end" id="title">Android Software Development 📱</h3> 
 <h3 align="end" id="title">Windows Software Development 🖥️</h3>
