@@ -8,7 +8,8 @@
     <img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" alt="project-image" width="450" height="300" align="left">
         
 <h3 align="end" id="title">Android Software Development 📱</h3> 
-<h3 align="end" id="title">Windows Software Development 🖥️</h3>  
+<h3 align="end" id="title">Windows Software Development 🖥️</h3>
+<h3 align="end" id="title">(a sprinkle of) Adobe Premiere Pro & Photoshop 📷🎬</h3>  
   </div>
 </div>
 
