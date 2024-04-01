@@ -9,7 +9,7 @@
         
 <h3 align="end" id="title">Android Software Development 📱</h3> 
 <h3 align="end" id="title">Windows Software Development 🖥️</h3>
-<h3 align="end" id="title">(a sprinkle of) Adobe Premiere Pro & Photoshop 📷🎬</h3>  
+<h3 align="end" id="title">(✨a sprinkle of✨) Adobe Premiere Pro & Photoshop 📷🎬</h3>  
   </div>
 </div>
 
