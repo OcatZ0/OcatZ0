@@ -33,7 +33,7 @@
 <div align="start">
       <h1 align="center" id="title">⚡ Little Facts ⚡</h1>
   <div style="text-align: left;">
-    <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="426" height="240" align="right" style="border-radius:15px">
+    <img src="https://github.com/OcatZ0/OcatZ0/raw/main/asd.gif" width="426" height="240" align="right">
         
 **⭐ My name is Muhamad Nurfadli 🤓**
 
