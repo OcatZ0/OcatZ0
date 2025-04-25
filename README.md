@@ -53,7 +53,7 @@
   
   [![Instagram - fadli_ocatz](https://img.shields.io/static/v1?label=Instagram&message=fadli_ocatz&color=E1306C&style=for-the-badge&logo=instagram)](https://www.instagram.com/fadli_ocatz/)
   ![Discord - ocatz](https://img.shields.io/badge/Discord-ocatz-5865F2?style=for-the-badge&logo=instagram&logoColor=5865F2)
-  ![Whatsapp - *](https://img.shields.io/badge/Whatsapp-null_(just_tryin_to_fill_this_line_bruv)-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366)
+  ![Whatsapp - *](https://img.shields.io/badge/Whatsapp-0895603512180-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366)
   
 </div>
 
