@@ -97,10 +97,10 @@
   <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/0-profile-details.svg"
+    srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg"
   />
   <img 
-    src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/0-profile-details.svg" 
+    src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg" 
     alt="Profile Details"
   />
 </picture>
