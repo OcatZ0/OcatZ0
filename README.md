@@ -95,15 +95,17 @@
 <h1 align="center">Statistics</h1>
 <div align="center">
   <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg"
-  />
-  <img 
-    src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg" 
-    alt="Profile Details"
-  />
-</picture>
+    <!-- Dark Mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg"
+    />
+    <!-- Light Mode -->
+    <img 
+      src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/0-profile-details.svg" 
+      alt="Profile Details"
+    />
+  </picture>
 </div>
 
 <div align="center">
