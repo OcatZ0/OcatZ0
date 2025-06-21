@@ -77,24 +77,6 @@
 <h1 align="center" id="title">📊 GitHub Stats 📊</h1>
 <div align="center">
   <picture>
-    <!-- Dark theme -->
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=onedark"
-    />
-    <!-- Light theme (default fallback) -->
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default" 
-      alt="GitHub Trophy"
-    />
-  </picture>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=OcatZ0&show_icons=true&locale=en&theme=transparent" alt="OcatZ0" />
-</div>
-
-
-<h1 align="center">Statistics</h1>
-<div align="center">
-  <picture>
     <!-- Dark Mode -->
     <source 
       media="(prefers-color-scheme: dark)" 
