@@ -94,24 +94,13 @@
 
 <h1 align="center">Statistics</h1>
 <div align="center">
-<picture>
+  <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OcatZ0&theme=github_dark"
+    srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/0-profile-details.svg"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OcatZ0&theme=default" 
-    alt="Repos per Language"
-  />
-</picture>
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OcatZ0&theme=github_dark"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OcatZ0&theme=default" 
+    src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/0-profile-details.svg" 
     alt="Profile Details"
   />
 </picture>
