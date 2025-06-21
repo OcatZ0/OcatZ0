@@ -106,6 +106,18 @@
       alt="Profile Details"
     />
   </picture>
+  <picture>
+    <!-- Dark Mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/1-repos-per-language.svg"
+    />
+    <!-- Light Mode -->
+    <img 
+      src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/1-repos-per-language.svg" 
+      alt="Profile Details"
+    />
+  </picture>
 </div>
 
 <div align="center">
