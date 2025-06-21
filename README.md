@@ -94,8 +94,16 @@
 
 <h1 align="center">Statistics</h1>
 <div align="center">
-<a href="https://github.com/OcatZ0">
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OcatZ0&theme=default)
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OcatZ0&theme=github_dark"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OcatZ0&theme=default" 
+    alt="Repos per Language"
+  />
+</picture>
 </div>
 
 <div align="center">
