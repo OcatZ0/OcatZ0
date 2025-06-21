@@ -106,18 +106,33 @@
       alt="Profile Details"
     />
   </picture>
-  <picture>
-    <!-- Dark Mode -->
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/1-repos-per-language.svg"
-    />
-    <!-- Light Mode -->
-    <img 
-      src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/1-repos-per-language.svg" 
-      alt="Profile Details"
-    />
-  </picture>
+  
+  <div align="center">
+    <picture>
+      <!-- Dark Mode -->
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/1-repos-per-language.svg"
+      />
+      <!-- Light Mode -->
+      <img 
+        src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/1-repos-per-language.svg" 
+        alt="Repos per Language"
+      />
+    </picture>
+    <picture>
+      <!-- Dark Mode -->
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/2-most-commit-language.svg"
+      />
+      <!-- Light Mode -->
+      <img 
+        src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/2-most-commit-language.svg" 
+        alt="Most Commit Language"
+      />
+    </picture>
+  </div>
 </div>
 
 <div align="center">
