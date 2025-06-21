@@ -76,13 +76,24 @@
 
 <h1 align="center" id="title">📊 GitHub Stats 📊</h1>
 <div align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default" alt="OcatZ0" /></a> </p>
+  <!-- Light mode only -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default"
+  alt="GitHub Trophy (light)"
+  data-color-mode="light"
+/>
+
+<!-- Dark mode only -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=onedark"
+  alt="GitHub Trophy (dark)"
+  data-color-mode="dark"
+/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=OcatZ0&show_icons=true&locale=en&theme=transparent" alt="OcatZ0" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OcatZ0&theme=" alt="OcatZ0" />
 </div>
 
 
-<h3 align="center">Statistics</h3>
+<h1 align="center">Statistics</h1>
 <div align="center">
 <a href="https://github.com/OcatZ0">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OcatZ0&theme=github" height="180em" />
