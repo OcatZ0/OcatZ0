@@ -17,12 +17,12 @@
       <source 
         media="(prefers-color-scheme: dark)" 
         srcset="https://github.com/OcatZ0/OcatZ0/blob/main/office_dark.gif"
-        alt="project-image" width="450" height="300" align="left"
+        alt="project-image" width="450" height="550" align="left"
       />
       <!-- Light Mode -->
       <img 
         src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" 
-        alt="Profile Details" width="450" height="600" align="left"
+        alt="Profile Details" width="450" height="300" align="left"
       />
   </picture>
         
