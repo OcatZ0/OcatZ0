@@ -77,18 +77,18 @@
 <h1 align="center" id="title">📊 GitHub Stats 📊</h1>
 <div align="center">
   <!-- Light mode only -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default"
-  alt="GitHub Trophy (light)"
-  data-color-mode="light"
-/>
-
-<!-- Dark mode only -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=onedark"
-  alt="GitHub Trophy (dark)"
-  data-color-mode="dark"
-/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=default"
+    alt="GitHub Trophy (light)"
+    media="(prefers-color-scheme: light)"
+  />
+  
+  <!-- Dark mode only -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=OcatZ0&theme=onedark"
+    alt="GitHub Trophy (dark)"
+    media="(prefers-color-scheme: dark)"
+  />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=OcatZ0&show_icons=true&locale=en&theme=transparent" alt="OcatZ0" />
 </div>
 
