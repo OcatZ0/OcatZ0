@@ -95,9 +95,7 @@
 <h1 align="center">Statistics</h1>
 <div align="center">
 <a href="https://github.com/OcatZ0">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=OcatZ0&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OcatZ0&theme=github" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OcatZ0&theme=github" height="180em" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OcatZ0&theme=default)
 </div>
 
 <div align="center">
