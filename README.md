@@ -17,7 +17,7 @@
       <source 
         media="(prefers-color-scheme: dark)" 
         srcset="https://github.com/OcatZ0/OcatZ0/blob/main/office_dark.gif"
-        alt="project-image" width="450" height="600" align="left"
+        alt="project-image" width="450" height="500" align="left"
       />
       <!-- Light Mode -->
       <img 
