@@ -128,11 +128,11 @@
     </picture>
   </div>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=blueberry&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true">
-  </picture>
+  ### Light Mode
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true" alt="GitHub Streak - Light" /></a>
+  
+  ### Dark Mode  
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OcatZ0&theme=blueberry&hide_border=true" alt="GitHub Streak - Dark" /></a>
 </div>
 
 <div align="center">
