@@ -129,9 +129,15 @@
   </div>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=OcatZ0&theme=blueberry">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=OcatZ0&theme=buefy">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true">
+    <source 
+      srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=blueberry&hide_border=true" 
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true" 
+      media="(prefers-color-scheme: light)" />
+    <img 
+      src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true" 
+      alt="GitHub Streak" />
   </picture>
 </div>
 
