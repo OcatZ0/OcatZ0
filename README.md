@@ -128,11 +128,12 @@
     </picture>
   </div>
 
-  ### Light Mode
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true" alt="GitHub Streak - Light" /></a>
-  
-  ### Dark Mode  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OcatZ0&theme=blueberry&hide_border=true" alt="GitHub Streak - Dark" /></a>
+  <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true#gh-light-mode-only" alt="GitHub Streak (Light)" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=OcatZ0&theme=blueberry&hide_border=true#gh-dark-mode-only" alt="GitHub Streak (Dark)" />
+  </a>
 </div>
 
 <div align="center">
