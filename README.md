@@ -128,7 +128,11 @@
     </picture>
   </div>
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OcatZ0&theme=tokyonight" alt="GitHub Streak" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy-dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true">
+  </picture>
 </div>
 
 <div align="center">
