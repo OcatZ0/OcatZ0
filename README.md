@@ -127,6 +127,8 @@
       />
     </picture>
   </div>
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=OcatZ&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
