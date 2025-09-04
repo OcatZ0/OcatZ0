@@ -51,7 +51,7 @@
 
 **⭐ I'm from Indonesia 🇮🇩 🇮🇩</h3>**
 
-**⭐ I'm currently studying at SMKN 1 Batam 🏫**
+**⭐ I'm currently studying at Politeknik Negeri Batam 🏫**
 
   </div>
 </div>
