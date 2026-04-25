@@ -61,6 +61,59 @@
 <br>
 <br>
 
+<h1 align="center" id="title">🎓 Education History 🎓</h1>
+
+<div align="center">
+
+| 🏫 Institution | 📖 Level | 🗂️ Major | 📅 Year |
+|:---:|:---:|:---:|:---:|
+| SMKN 1 Batam | Senior High School (SMK) | Teknik Komputer & Jaringan (TKJ) | 2022 – 2025 |
+| Politeknik Negeri Batam | Diploma / College (D4) | Teknologi Rekayasa Perangkat Lunak (TRPL) | 2025 – 2029 |
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+<h1 align="center" id="title">🚀 Projects 🚀</h1>
+
+<div align="center">
+
+### 🏭 SBI-WiringSystem
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+> A **shop floor tracking system** for wire harness manufacturing. Workers scan barcodes to advance wire items through a 3-stage production pipeline:
+> **Material Handling → Operator → Delivery**
+>
+> Supervisors & admins can import Excel production plans, monitor live status reports, and export daily reports to **Excel or PDF**.
+
+---
+
+### 🛰️ [MonitoringMikrotik-Filltech](https://github.com/OcatZ0/MonitoringMikrotik-Filltech)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+> A clean, modern, **space-themed ASP.NET Core MVC** application for managing and monitoring **Mikrotik routers** — built for network administrators who need real-time visibility in style.
+
+---
+
+### 📄 AjuinAja
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+> A **PHP-based web application** for online document & letter submission at a local Indonesian government administrative unit (**Kelurahan / Village Office**). Simplifying bureaucracy, one form at a time. 🇮🇩
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
 <h1 align="center" id="title">Contact Me</h1>
 <div align="center">
   
