@@ -81,7 +81,7 @@
 
 <div align="center">
 
-### 🏭 SBI-WiringSystem
+### 🏭 [SBI-WiringSystem](https://github.com/OcatZ0/SBI-WiringSystem)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -102,7 +102,7 @@
 
 ---
 
-### 📄 AjuinAja
+### 📄 [AjuinAja](https://github.com/OcatZ0/AjuinAja)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
