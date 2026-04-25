@@ -83,7 +83,7 @@
 
 ### 🏭 [SBI-WiringSystem](https://github.com/OcatZ0/SBI-WiringSystem)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 > A **shop floor tracking system** for wire harness manufacturing. Workers scan barcodes to advance wire items through a 3-stage production pipeline:
@@ -95,7 +95,7 @@
 
 ### 🛰️ [MonitoringMikrotik-Filltech](https://github.com/OcatZ0/MonitoringMikrotik-Filltech)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 > A clean, modern, **space-themed ASP.NET Core MVC** application for managing and monitoring **Mikrotik routers** — built for network administrators who need real-time visibility in style.
