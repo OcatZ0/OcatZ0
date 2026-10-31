@@ -38,7 +38,7 @@ Software developer from Batam, Indonesia, currently studying Software Engineerin
 | Languages | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | Backend | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | Frontend | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| Mobile | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| Mobile | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 | Database | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | DevOps | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | Networking | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white) |
@@ -48,24 +48,24 @@ Software developer from Batam, Indonesia, currently studying Software Engineerin
 
 | Project | Stack | Description |
 |:---|:---|:---|
+| [Mare Nostrum](https://github.com/OcatZ0/MareNostrum-Kabocha) ([live demo](https://mare-nostrum-kabocha.vercel.app/)) | Laravel 12, React 19, PostgreSQL, TomTom API | Hackathon project at Politeknik Negeri Batam (Team Kabocha). Cross-border logistics tracking from Batam warehouses to Singapore berths: traffic-aware departure scheduling, live truck GPS with 100m geofence arrival detection, vessel tracking via AIS, and CO2 emissions per trip. |
 | [SBI-WiringSystem](https://github.com/OcatZ0/SBI-WiringSystem) | .NET 8, SQL Server | Shop floor tracking for wire harness manufacturing. Barcode scanning moves items through Material Handling, Operator, and Delivery stages, with Excel plan import and Excel/PDF daily reports. |
-| [TiketixAPI](https://github.com/OcatZ0/TiketixAPI) | ASP.NET Core | RESTful API for theater schedules, movies, and seat reservations. |
-| [oneforall](https://github.com/OcatZ0/oneforall) | Web, Wazuh API | Security monitoring dashboard for Wazuh agents, with role-based access for administrators and customers. |
-| [AjuinAja](https://github.com/OcatZ0/AjuinAja) | PHP, MySQL | Online document and letter submission for a Kelurahan (village office) in Indonesia. |
+| [oneforall](https://github.com/OcatZ0/oneforall) | Laravel, Wazuh API | Security monitoring dashboard for Wazuh agents, with role-based access for administrators and customers. |
 
 ## Client Projects
 
-These are private client projects, so the source code is not publicly available.
+Most of these are private client projects, so the source code is only linked where it is public.
 
 | Project | Stack | Description |
 |:---|:---|:---|
 | E-Billing Platform | ASP.NET Core, PostgreSQL, Node.js | Multi-tenant billing for ISPs: invoicing, unique payment codes, a central admin console, scheduled background jobs, and a Baileys-based WhatsApp gateway for customer notifications. |
 | Network Monitoring | ASP.NET Core, PostgreSQL, Windows Services | Monitoring for Mikrotik routers, interface traffic, SFP signal, PPPoE sessions, and metro links, backed by polling services and automated config backups. |
-| Job Order System | Laravel, React Native (Expo), FastAPI | Field job management with phases, photo documentation, technician scheduling, and face recognition attendance with liveness detection. |
+| Job Order System | Laravel, FastAPI | Field job management with phases, photo documentation, technician scheduling, and face recognition attendance with liveness detection. |
 | MCP Servers | ASP.NET Core, Laravel | Read-only Model Context Protocol servers that let managers query billing, monitoring, and job data through Claude. |
 | CI/CD Pipeline | GitHub Actions, PowerShell, ASP.NET Core | Self-hosted deploy pipeline for ASP.NET, Laravel, and Windows Service projects, with a dashboard for deploy history, redeploy, rollback, and health checks. |
 | Financial Management | ASP.NET Core, Laravel, PostgreSQL | Income and expense tracking with region-scoped access, built for two companies. |
 | Attendance App | Flutter | Android attendance app for company employees. |
+| [AjuinAja](https://github.com/OcatZ0/AjuinAja) | PHP, MySQL, Dompdf | Online letter service for a Kelurahan (village office). Residents submit requests for SKTM, domicile, business, income, and event permit letters, then track their status. Staff verify each request and print the official letter as a PDF from a template with header and signature. |
 | SmartTrip Batam | Flutter | Campus project: holiday itinerary recommendations based on user preferences. |
 
 ## Education
