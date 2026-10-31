@@ -60,7 +60,7 @@ These are private client projects, so the source code is not publicly available.
 | Project | Stack | Description |
 |:---|:---|:---|
 | E-Billing Platform | ASP.NET Core, PostgreSQL, Node.js | Multi-tenant billing for ISPs: invoicing, unique payment codes, a central admin console, scheduled background jobs, and a Baileys-based WhatsApp gateway for customer notifications. |
-| Network Monitoring | ASP.NET Core, SQL Server, Windows Services | Monitoring for Mikrotik routers, interface traffic, SFP signal, PPPoE sessions, and metro links, backed by polling services and automated config backups. |
+| Network Monitoring | ASP.NET Core, PostgreSQL, Windows Services | Monitoring for Mikrotik routers, interface traffic, SFP signal, PPPoE sessions, and metro links, backed by polling services and automated config backups. |
 | Job Order System | Laravel, React Native (Expo), FastAPI | Field job management with phases, photo documentation, technician scheduling, and face recognition attendance with liveness detection. |
 | MCP Servers | ASP.NET Core, Laravel | Read-only Model Context Protocol servers that let managers query billing, monitoring, and job data through Claude. |
 | CI/CD Pipeline | GitHub Actions, PowerShell, ASP.NET Core | Self-hosted deploy pipeline for ASP.NET, Laravel, and Windows Service projects, with a dashboard for deploy history, redeploy, rollback, and health checks. |
