@@ -1,207 +1,103 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=👑%20ABOUT%20ME%20👑&textBg=false&fontSize=80&desc=Muhamad%20Nurfadli&descAlign=50&descAlignY=66&descSize=25" alt="project-image"></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Muhamad%20Nurfadli&textBg=false&fontSize=64&fontAlignY=38&desc=Software%20Developer%20%7C%20.NET%20%26%20Laravel&descAlign=50&descAlignY=60&descSize=22" alt="Muhamad Nurfadli">
+</p>
 
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/eb537770268399c917f32932ce7acdfd/2fc7711415efeb4c-18/s540x810/2999150f2060c53a89d149f5c03dc1b2c541868f.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif">
-  <img src="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif" alt="Paimon" style="max-width: 100%; height: auto;">
-</picture>
-</div>
-
-<h1 align="center" id="title">📚 I'm currently learning on 📚</h1>
-<div style="display: flex; justify-content: flex-end;">
-  <div style="text-align: end;">
-      <div style="text-align: left;">
-    <picture>
-      <!-- Dark Mode -->
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://github.com/OcatZ0/OcatZ0/blob/main/office_dark.gif"
-        alt="project-image" width="300" height="300" align="left"
-      />
-      <!-- Light Mode -->
-      <img 
-        src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" 
-        alt="Profile Details" width="450" height="300" align="left"
-      />
-  </picture>
-        
-<h3 align="end" id="title">Android Software Development 📱</h3> 
-<h3 align="end" id="title">Windows Software Development 🖥️</h3>
-<h3 align="end" id="title">Web Development 🌐</h3>
-<h3 align="end" id="title">(✨a sprinkle of✨) Adobe Premiere Pro 🎬 & Photoshop 📷</h3>  
-  </div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div align="start">
-      <h1 align="center" id="title">⚡ Little Facts ⚡</h1>
-  <div style="text-align: left;">
-        
-**⭐ My name is Muhamad Nurfadli 🤓**
-
-**⭐ I'm from Indonesia 🇮🇩 🇮🇩</h3>**
-
-**⭐ I'm currently studying at Politeknik Negeri Batam 🏫**
-
-  </div>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-<h1 align="center" id="title">🎓 Education History 🎓</h1>
-
-<div align="center">
-
-| 🏫 Institution | 📖 Level | 🗂️ Major | 📅 Year |
-|:---:|:---:|:---:|:---:|
-| SMKN 1 Batam | Senior High School (SMK) | Teknik Komputer & Jaringan (TKJ) | 2022 – 2025 |
-| Politeknik Negeri Batam | Diploma / College (D4) | Teknologi Rekayasa Perangkat Lunak (TRPL) | 2025 – 2029 |
-
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-<h1 align="center" id="title">🚀 Projects 🚀</h1>
-
-<div align="center">
-
-### 🏭 [SBI-WiringSystem](https://github.com/OcatZ0/SBI-WiringSystem)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-> A **shop floor tracking system** for wire harness manufacturing. Workers scan barcodes to advance wire items through a 3-stage production pipeline:
-> **Material Handling → Operator → Delivery**
->
-> Supervisors & admins can import Excel production plans, monitor live status reports, and export daily reports to **Excel or PDF**.
-
----
-
-### 🛰️ [MonitoringMikrotik-Filltech](https://github.com/OcatZ0/MonitoringMikrotik-Filltech)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-> A clean, modern, **space-themed ASP.NET Core MVC** application for managing and monitoring **Mikrotik routers** — built for network administrators who need real-time visibility in style.
-
----
-
-### 📄 [AjuinAja](https://github.com/OcatZ0/AjuinAja)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-> A **PHP-based web application** for online document & letter submission at a local Indonesian government administrative unit (**Kelurahan / Village Office**). Simplifying bureaucracy, one form at a time. 🇮🇩
-
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-<h1 align="center" id="title">Contact Me</h1>
-<div align="center">
-  
-  [![Instagram - fadli_ocatz](https://img.shields.io/static/v1?label=Instagram&message=fadli_ocatz&color=E1306C&style=for-the-badge&logo=instagram)](https://www.instagram.com/fadli_ocatz/)
-  ![Discord - ocatz](https://img.shields.io/badge/Discord-ocatz-5865F2?style=for-the-badge&logo=instagram&logoColor=5865F2)
-  ![Whatsapp - *](https://img.shields.io/badge/Whatsapp-0895603512180-25D366?style=for-the-badge&logo=whatsapp&logoColor=25D366)
-  
-</div>
-
-<br>
-
-<h1 align="center" id="title">💻 Tech Stack 💻</h1>
-
-<div align="center">
-  
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-  
-</div>
-
-<br>
-
-<h1 align="center" id="title">📊 GitHub Stats 📊</h1>
-<div align="center">
-  <picture>
-    <!-- Dark Mode -->
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg"
-    />
-    <!-- Light Mode -->
-    <img 
-      src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/0-profile-details.svg" 
-      alt="Profile Details"
-    />
-  </picture>
-  
-  <div align="center">
-    <picture>
-      <!-- Dark Mode -->
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/1-repos-per-language.svg"
-      />
-      <!-- Light Mode -->
-      <img 
-        src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/1-repos-per-language.svg" 
-        alt="Repos per Language"
-      />
-    </picture>
-    <picture>
-      <!-- Dark Mode -->
-      <source 
-        media="(prefers-color-scheme: dark)" 
-        srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/2-most-commit-language.svg"
-      />
-      <!-- Light Mode -->
-      <img 
-        src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/2-most-commit-language.svg" 
-        alt="Most Commit Language"
-      />
-    </picture>
-  </div>
-
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=blueberry&hide_border=true" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true" 
-      media="(prefers-color-scheme: light)" />
-    <img 
-      src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true" 
-      alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/eb537770268399c917f32932ce7acdfd/2fc7711415efeb4c-18/s540x810/2999150f2060c53a89d149f5c03dc1b2c541868f.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif">
+    <img src="https://github.com/OcatZ0/OcatZ0/blob/main/PaimonGIF.gif" alt="Paimon" width="300">
   </picture>
 </div>
 
 <div align="center">
-  
-<picture widht="20" height="20">
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.giphy.com/KsIpb1gJXnK3lH8ba6.webp">
-  <source media="(prefers-color-scheme: light)" srcset="https://c.tenor.com/wAf24FIqeL4AAAAC/tenor.gif">
-  <img src="https://c.tenor.com/wAf24FIqeL4AAAAC/tenor.gif" alt="Paimon" style="max-width: 100%; height: auto;">
-</picture>
-  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhamad%20Nurfadli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-nurfadli-9109ba364/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ocatz0.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://ocatz0.github.io/portofolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-fadli__ocatz-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fadli_ocatz/)
+![Discord](https://img.shields.io/badge/Discord-ocatz-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</div>
+
+## About Me
+
+Software developer from Batam, Indonesia, currently studying Software Engineering Technology (D4 TRPL) at Politeknik Negeri Batam. I build and maintain production systems for an internet service provider: billing, network monitoring, field job management, and the CI/CD pipeline that ships them.
+
+## What I Work On
+
+- **Business web applications** with ASP.NET Core MVC and Laravel, from database design to deployment
+- **Background services** on Windows Server for scheduled billing, device polling, and data sync
+- **Network monitoring** for Mikrotik routers, SFP signal levels, PPPoE sessions, and metro links
+- **Mobile apps** with Flutter and React Native (Expo) for field technicians and staff attendance
+- **Integrations and automation**: WhatsApp gateways, MCP servers for Claude, and self-hosted CI/CD
+
+## Tech Stack
+
+| Area | Technologies |
+|:---|:---|
+| Languages | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| Backend | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| Frontend | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| Mobile | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
+| Database | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| DevOps | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| Networking | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white) |
+| Design | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) |
+
+## Featured Projects
+
+| Project | Stack | Description |
+|:---|:---|:---|
+| [SBI-WiringSystem](https://github.com/OcatZ0/SBI-WiringSystem) | .NET 8, SQL Server | Shop floor tracking for wire harness manufacturing. Barcode scanning moves items through Material Handling, Operator, and Delivery stages, with Excel plan import and Excel/PDF daily reports. |
+| [TiketixAPI](https://github.com/OcatZ0/TiketixAPI) | ASP.NET Core | RESTful API for theater schedules, movies, and seat reservations. |
+| [oneforall](https://github.com/OcatZ0/oneforall) | Web, Wazuh API | Security monitoring dashboard for Wazuh agents, with role-based access for administrators and customers. |
+| [AjuinAja](https://github.com/OcatZ0/AjuinAja) | PHP, MySQL | Online document and letter submission for a Kelurahan (village office) in Indonesia. |
+
+## Client Projects
+
+These are private client projects, so the source code is not publicly available.
+
+| Project | Stack | Description |
+|:---|:---|:---|
+| E-Billing Platform | ASP.NET Core, PostgreSQL, Node.js | Multi-tenant billing for ISPs: invoicing, unique payment codes, a central admin console, scheduled background jobs, and a Baileys-based WhatsApp gateway for customer notifications. |
+| Network Monitoring | ASP.NET Core, SQL Server, Windows Services | Monitoring for Mikrotik routers, interface traffic, SFP signal, PPPoE sessions, and metro links, backed by polling services and automated config backups. |
+| Job Order System | Laravel, React Native (Expo), FastAPI | Field job management with phases, photo documentation, technician scheduling, and face recognition attendance with liveness detection. |
+| MCP Servers | ASP.NET Core, Laravel | Read-only Model Context Protocol servers that let managers query billing, monitoring, and job data through Claude. |
+| CI/CD Pipeline | GitHub Actions, PowerShell, ASP.NET Core | Self-hosted deploy pipeline for ASP.NET, Laravel, and Windows Service projects, with a dashboard for deploy history, redeploy, rollback, and health checks. |
+| Financial Management | ASP.NET Core, Laravel, PostgreSQL | Income and expense tracking with region-scoped access, built for two companies. |
+| Attendance App | Flutter | Android attendance app for company employees. |
+| SmartTrip Batam | Flutter | Campus project: holiday itinerary recommendations based on user preferences. |
+
+## Education
+
+| Institution | Program | Years |
+|:---|:---|:---|
+| Politeknik Negeri Batam | D4 Teknologi Rekayasa Perangkat Lunak (TRPL) | 2025 - 2029 |
+| SMKN 1 Batam | Teknik Komputer dan Jaringan (TKJ) | 2022 - 2025 |
+
+## GitHub Stats
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/0-profile-details.svg">
+    <img src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/0-profile-details.svg" alt="Profile Details">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/1-repos-per-language.svg">
+    <img src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/1-repos-per-language.svg" alt="Repos per Language">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/blueberry/2-most-commit-language.svg">
+    <img src="https://raw.githubusercontent.com/OcatZ0/github-profile-summary-cards/main/profile-summary-card-output/buefy/2-most-commit-language.svg" alt="Most Commit Language">
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=OcatZ0&theme=blueberry&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=OcatZ0&theme=buefy&hide_border=true" alt="GitHub Streak">
+  </picture>
 </div>
