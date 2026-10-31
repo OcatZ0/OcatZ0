@@ -13,7 +13,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhamad%20Nurfadli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-nurfadli-9109ba364/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ocatz0.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://ocatz0.github.io/portofolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ocatz0.github.io-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://ocatz0.github.io/)
 [![Instagram](https://img.shields.io/badge/Instagram-fadli__ocatz-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fadli_ocatz/)
 ![Discord](https://img.shields.io/badge/Discord-ocatz-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
