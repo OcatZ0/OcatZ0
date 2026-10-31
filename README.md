@@ -44,6 +44,13 @@ Software developer from Batam, Indonesia, currently studying Software Engineerin
 | Networking | ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white) |
 | Design | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) |
 
+## Experience
+
+| Role | Company | Period |
+|:---|:---|:---|
+| Junior Software Engineer | PT. Filltech Antar Nusa, Batam | May 2025 - Present |
+| Network Technician (Internship) | PT Skynet Indonesia Madani, Batam | Jul 2024 - Dec 2024 |
+
 ## Featured Projects
 
 | Project | Stack | Description |
